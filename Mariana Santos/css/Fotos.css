@@ -1,0 +1,81 @@
+.logo {position: relative;
+    left: 20px;
+top: -90px;}
+    nav {background-color: #000000;
+    width: 99,2%;
+    position: relative;
+    height: 100px;
+    text-align: right;}
+    nav a{position: relative;
+    right: 20px;
+    top: 40px;
+    color: #ffffff;
+    padding-left: 50px;
+    font-size: 30px;
+    text-decoration: none;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.foto{position: relative;
+    top: -70px;
+     left: 800px;}
+
+     .img1{position: relative;
+    top:-50px;}
+
+    .img1{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+    .img1:hover{filter: blur(0px);}
+
+
+    .img2{position: relative;
+    top: -50px;}
+    .img2{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+    .img2:hover{filter: blur(0px);}
+
+
+    .img3{position: relative;
+    top: -50px;}
+    .img3{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+    .img3:hover{filter: blur(0px);}
+
+
+    .img4{position: relative;
+        top: -50px;}
+        .img4{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+        .img4:hover{filter: blur(0px);}
+    
+
+.img5{position: relative;
+    top: -50px;}
+    .img5{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+    .img5:hover{filter: blur(0px);}
+
+
+.img6{position: relative;
+    top: -50px;}
+    .img6{filter: blur(5px);transition: all 0.5s;cursor: pointer;}
+    .img6:hover{filter: blur(0px);}
+
+
+    a{position: absolute;
+        top: 50px;}
+    .botao {background-color: #000000;
+        font-size: 15px;
+        padding: 15px;
+        text-align: center;
+    position: relative;
+    bottom: 5px;
+    left: 0px;
+    right: 10px;
+    height: 85px;
+    top: -10px;}
+    h4{position: absolute;
+    top: -15px;
+    left: 85px ;
+    right: 50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+
+    
+
+
